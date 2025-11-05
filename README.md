@@ -51,7 +51,8 @@ _As a portfolio manager, I want an evidence-based assessment of whether COVID ma
 
 ## 4. Flowchart
 
-<img width="3152" height="2046" alt="refined_flowchart" src="https://github.com/user-attachments/assets/a5ea7635-53b9-41cd-93f1-e8450a63df3e" />
+<img width="484" height="683" alt="image" src="https://github.com/user-attachments/assets/57f0a401-09fe-47ae-8a8a-14172dbd43c1" />
+
 
 ---
 
